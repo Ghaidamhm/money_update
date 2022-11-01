@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "bb4bbd60041859da14acd397fbf1111299c03c85ef1deadd02cd6b3dc1edd6a9"
+build_start_time: [1667249506, 305515050]
+build_end_time: [1667249506, 328428030]
+inputs:
+  ? "/Users/ghaida/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/awesome_notifications-0.7.4+1/macos/Classes/AwesomeNotificationsPlugin.swift"
+  : !private [1667203958, 193166732]

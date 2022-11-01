@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "7ac8ce26f65ad3867ca0357cbd6dca620e3e6d1ebaa51e194c3206759828e300"
+build_start_time: [1667116378, 267158031]
+build_end_time: [1667116378, 290511131]
+inputs:
+  "/Users/ghaida/Downloads/personal_expenses_new 4/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1667116356, 143113136]
+  "/Users/ghaida/Downloads/personal_expenses_new 4/macos/Runner/AppDelegate.swift": !private [1657744767, 0]
+  "/Users/ghaida/Downloads/personal_expenses_new 4/macos/Runner/MainFlutterWindow.swift": !private [1657744767, 0]

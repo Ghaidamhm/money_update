@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/ghaida/Desktop/personal_expenses_new 4/build/macos/Build/Products/Debug/awesome_notifications/awesome_notifications.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/ghaida/Desktop/personal_expenses_new 4/build/macos/Build/Intermediates.noindex/Pods.build/Debug/awesome_notifications.build/unextended-module.modulemap",
+    }]
+  }]
+}
